@@ -11,11 +11,8 @@ Information: Customer ID, credit score, country, gender, age, tenure, balance, n
 ## Folders
 Description of folder contents are as follows:
 * 01 Project Management: Contains the project brief and related documentation.
-* 02 Data: Includes two subfolders:
- 'Original Data': Original datasets.
- 'Prepared Data': Cleaned data ready for analysis.
 * 03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
-* 04 Analysis: Contains excel documentation for exploratory analysis, insights, top risk factors, and decision tree model.
+* 04 Analysis: Contains excel documentation for exploratory analysis, insights, top risk factors, and diagrams.
 
 ## Code Overview
 Code was written in Python and executed in Jupyter notebooks.
